@@ -6,8 +6,9 @@ It's a pyhoton script aimed to generate a list of possible words from given lett
 - A lot of these generated words are meaningless. 
 
 
-### Todo list
 --- 
+
+### Todo list
 
 - [ ] Use a dictionary to filter out the meaningless words
 - [ ] Add option to generate fixed length words
