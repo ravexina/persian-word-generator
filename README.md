@@ -1,8 +1,9 @@
-# Persian word generator
+# Word generator
 
-It's a pyhoton script aimed to generate a list of possible persian words from given letters.
+It's a pyhoton script aimed to generate a list of possible words from given letters.
 
-It generate all possible things than can be created. A lot of them are meaningless. 
+- It generate all possible things than can be created from given letters with different lengths.
+- A lot of these generated words are meaningless. 
 
 
 ### Todo list
